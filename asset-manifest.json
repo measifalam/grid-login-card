@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/measifalam/grid-login-card.git/static/css/main.073c9b0a.css",
+    "main.js": "/measifalam/grid-login-card.git/static/js/main.0c5ec475.js",
+    "index.html": "/measifalam/grid-login-card.git/index.html",
+    "main.073c9b0a.css.map": "/measifalam/grid-login-card.git/static/css/main.073c9b0a.css.map",
+    "main.0c5ec475.js.map": "/measifalam/grid-login-card.git/static/js/main.0c5ec475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0c5ec475.js"
+  ]
+}
